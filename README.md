@@ -1,28 +1,34 @@
-![Web Developer](https://scontent.fdac186-1.fna.fbcdn.net/v/t39.30808-6/830487365_1055727070786239_1608352225192613182_n.jpg?stp=dst-jpg_tt6&cstp=mx1672x941&ctp=s960x960&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFqvs7SxlnMRpdcI3Tlj3K8JY6L5pCKsWQljovmkIqxZANhqQ2QFXekL1aNxinTLopzeO7SE_2_CYufF9JFItL0&_nc_ohc=x1VzHOmxuKYQ7kNvwGYutJP&_nc_oc=AdpSObpNddK5fDcEGk9RLwxOCsZp7USAhhjvMNCHdCA4hFHWjNwIkynXeTCvqyTjsaA&_nc_zt=23&_nc_ht=scontent.fdac186-1.fna&_nc_gid=bCKt8QZIuuMu5kQUvolL7g&_nc_ss=7b2a8&oh=00_AQP8uFAH27SPwmNB2pLjCWQ8xCboIWoxSwGPJXtBqC2AKQ&oe=6AC552C9)
-### Hi there 👋, Im Sabbir Dewan
-#### Web Developer
+# Sabbir Dewan
 
-I'm Sabbir Dewan, a Front-End Developer dedicated to building clean, responsive, and user-focused web interfaces. I specialize in translating design concepts into functional, high-quality code using HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap. With a strong foundation in modern front-end practices, I focus on writing maintainable code and delivering seamless user experiences. I'm continuously expanding my skill set and seeking opportunities to contribute to meaningful projects while growing as a developer.
+**Front-End Developer · Dhaka, Bangladesh**
 
-Skills: REACT / JS / HTML / CSS / TAILWIND / BOOTSTRAP
+I build responsive, user-focused web interfaces with React, JavaScript, and Tailwind CSS. I am a Computer Science and Engineering student who learns by building, and every project below is deployed so you can open it and see how it works.
 
-- 🔭 I’m currently working on PROJECTS 
-- 🌱 I’m currently learning JAVASCRIPT 
-- 👯 I’m looking to collaborate on GITHUB 
-- 📫 How to reach me: Email: sabbirdewann@gmail.com 
-- 😄 Pronouns: He 
-- ⚡ Fun fact: Its taking so much time 
+I started my front-end development course in January 2026 and have been shipping projects steadily since April. My recent work covers state management with Redux Toolkit, client-side routing with React Router, data fetching from REST APIs, and Firebase for storing live data. Right now I am deepening my JavaScript fundamentals and building a full application with real authentication. I am looking for a junior front-end developer internship in Dhaka starting in January 2027.
 
+## Tech stack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dewanxt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dewanxt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dewanxt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dewanxt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dewanxt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dewanxt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/dewanxt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/dewanxt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/33179104)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/dewanxt)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## Featured projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewanxt)](https://github.com/anuraghazra/github-readme-stats)
+| Project | What it is | Built with | Links |
+|---|---|---|---|
+| **Exclusive** | E-commerce storefront with a product catalogue, category filtering, cart, wishlist, and checkout. Cart and wishlist survive a page refresh. | React, Redux Toolkit, React Router, Tailwind CSS | [Live](https://e-commerce-website-five-alpha-49.vercel.app/) · [Code](https://github.com/dewanxt/e-CommerceWebsite) |
+| **Evenza** | Event and conference landing page with a countdown, schedule, speakers, pricing, and FAQ. | React, Vite, Tailwind CSS, Motion | [Live](https://evenza-neon.vercel.app/) · [Code](https://github.com/dewanxt/Evenza) |
+| **todoAppUltra** | Task manager where tasks are stored in a Firebase Realtime Database. Add, edit, and delete tasks with animated feedback. | React, Firebase, Tailwind CSS, Motion | [Live](https://todo-app-ultra-gamma.vercel.app) · [Code](https://github.com/dewanxt/todoAppUltra) |
+| **Cosmic Portfolio** | Personal portfolio with an interactive 3D deep-space theme. | TypeScript, React Three Fiber, TanStack Start, Tailwind CSS | [Live](https://portfolio-zh8o.vercel.app/) · [Code](https://github.com/dewanxt/portfolio) |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dewanxt&show_icons=true&count_private=true)  
+## Get in touch
 
-![GitHub metrics](https://metrics.lecoq.io/dewanxt)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=dewanxt)  
-
+I am happy to talk about internships, junior roles, and small freelance projects. The quickest way to reach me is by email at [sabbirdewann@gmail.com](mailto:sabbirdewann@gmail.com), and you can also find me on [LinkedIn](https://www.linkedin.com/in/dewanxt/) or browse my [portfolio](https://portfolio-zh8o.vercel.app/).
