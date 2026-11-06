@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./assets/dewanxt-animated-banner.gif" width="100%" alt="Sabbir Dewan — Front-End Developer" />
+<img src="./assets/dewanxt-animated-banner.svg" width="100%" alt="Sabbir Dewan — Front-End Developer" />
 
 <br/>
 
@@ -87,7 +87,7 @@ I enjoy transforming ideas into functional interfaces, exploring modern web tech
 <br/>
 
 <a href="https://github.com/dewanxt">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=dewanxt&hide_border=true&background=0D0D0F&ring=C04A70&fire=800020&currStreakLabel=C04A70&sideLabels=D9C5CB&dates=8B727A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img width="95%" src="https://streak-stats.demolab.com/?user=dewanxt&hide_border=true&background=0D0D0F&ring=C04A70&fire=800020&currStreakLabel=C04A70&sideLabels=D9C5CB&dates=8B727A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </a>
 
 </div>
