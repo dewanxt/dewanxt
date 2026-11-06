@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dewanxt-animated-banner.gif" width="100%" alt="Sabbir Dewan — Front-End Developer" />
+<img src="./assets/dewanxt-animated-banner.svg" width="100%" alt="Sabbir Dewan — Front-End Developer" />
 
 <br/>
 
