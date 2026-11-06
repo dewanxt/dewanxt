@@ -10,21 +10,15 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/about.svg" alt="About Me" width="100%" />
-
-<br />
+## About Me
 
 I am a front-end developer in Dhaka, Bangladesh, and a Computer Science and Engineering student. I build responsive, component-based interfaces with React, and I care about layouts that stay clean from a phone screen to a wide desktop. My projects use Redux Toolkit for state, React Router for navigation, and Firebase or public REST APIs for data. I am strengthening my JavaScript fundamentals every week, and my goal is to grow into a full-stack developer. I am open to junior front-end internships and to collaboration.
 
-<img src="assets/focus.svg" alt="Current Focus" width="100%" />
-
-<br />
+## Current Focus
 
 Right now I am building more responsive React applications and working through core JavaScript topics such as closures, async and await, and array methods. I am adding real authentication with Firebase to my projects, preparing for the backend part of my full-stack course in 2027, and getting ready for a junior front-end internship in Dhaka.
 
-<img src="assets/stack.svg" alt="Tech Stack" width="100%" />
-
-<br />
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=F3E6D8" alt="HTML5" />
@@ -50,9 +44,7 @@ Right now I am building more responsive React applications and working through c
   <img src="https://img.shields.io/badge/Vercel-24292F?style=for-the-badge&logo=vercel&logoColor=F3E6D8" alt="Vercel" />
 </p>
 
-<img src="assets/stats.svg" alt="GitHub Overview" width="100%" />
-
-<br />
+## GitHub Overview
 
 <p align="center">
   <picture>
@@ -66,9 +58,7 @@ Right now I am building more responsive React applications and working through c
   <img src="https://streak-stats.demolab.com/?user=dewanxt&background=00000000&ring=C9A66B&fire=C9A66B&currStreakNum=A33049&sideNums=A33049&currStreakLabel=9A7424&sideLabels=9A7424&dates=9A7424&stroke=C9A66B55&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-<img src="assets/contact.svg" alt="Get in Touch" width="100%" />
-
-<br />
+## Get in Touch
 
 I am happy to talk about internships, junior roles, and small freelance projects. The quickest way to reach me is by email at [sabbirdewann@gmail.com](mailto:sabbirdewann@gmail.com), and you can also message me on [LinkedIn](https://www.linkedin.com/in/dewanxt/) or look through my [portfolio](https://portfolio-zh8o.vercel.app/).
 
