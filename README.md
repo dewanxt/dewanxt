@@ -3,12 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-zh8o.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=F3E6D8" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/dewanxt/"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=linkedin&logoColor=F3E6D8" alt="LinkedIn" /></a>
-  <a href="mailto:sabbirdewann@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=F3E6D8" alt="Email" /></a>
+  <a href="https://portfolio-zh8o.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-800020?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/dewanxt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sabbirdewann@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<img src="assets/divider.svg" alt="" width="100%" />
 
 ## About Me
 
@@ -20,28 +18,22 @@ Right now I am building more responsive React applications and working through c
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=F3E6D8" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css3&logoColor=F3E6D8" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=F3E6D8" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-24292F?style=for-the-badge&logo=tailwindcss&logoColor=F3E6D8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-24292F?style=for-the-badge&logo=bootstrap&logoColor=F3E6D8" alt="Bootstrap" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=F3E6D8" alt="React" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-24292F?style=for-the-badge&logo=redux&logoColor=F3E6D8" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/React_Router-24292F?style=for-the-badge&logo=reactrouter&logoColor=F3E6D8" alt="React Router" />
-  <img src="https://img.shields.io/badge/Motion-24292F?style=for-the-badge&logo=framer&logoColor=F3E6D8" alt="Motion" />
-  <img src="https://img.shields.io/badge/Axios-24292F?style=for-the-badge&logo=axios&logoColor=F3E6D8" alt="Axios" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-24292F?style=for-the-badge&logo=firebase&logoColor=F3E6D8" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=F3E6D8" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=F3E6D8" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vite-24292F?style=for-the-badge&logo=vite&logoColor=F3E6D8" alt="Vite" />
-  <img src="https://img.shields.io/badge/Vercel-24292F?style=for-the-badge&logo=vercel&logoColor=F3E6D8" alt="Vercel" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Motion" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ## GitHub Overview
@@ -55,11 +47,9 @@ Right now I am building more responsive React applications and working through c
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dewanxt&background=00000000&ring=C9A66B&fire=C9A66B&currStreakNum=A33049&sideNums=A33049&currStreakLabel=9A7424&sideLabels=9A7424&dates=9A7424&stroke=C9A66B55&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=dewanxt&theme=default&hide_border=true&background=00000000" alt="GitHub streak stats" />
 </p>
 
 ## Get in Touch
 
 I am happy to talk about internships, junior roles, and small freelance projects. The quickest way to reach me is by email at [sabbirdewann@gmail.com](mailto:sabbirdewann@gmail.com), and you can also message me on [LinkedIn](https://www.linkedin.com/in/dewanxt/) or look through my [portfolio](https://portfolio-zh8o.vercel.app/).
-
-<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />

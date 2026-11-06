@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#5E1426&color_dots=#EBDDD6,#D9A5A0,#B8586B,#7A1B31,#3A0A16
+            dist/github-snake.svg?color_snake=#800020&color_dots=#EBEDF0,#E6C2C8,#C9788A,#A33049,#800020
             dist/github-snake-dark.svg?color_snake=#F3E6D8&color_dots=#2A1015,#5E1426,#7A1B31,#A33049,#C9A66B
 
       - name: Publish to the output branch

@@ -1,89 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Sabbir Dewan, Front-End Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Sabbir Dewan, Front-End Developer">
   <title>Sabbir Dewan, Front-End Developer</title>
-  <defs>
-    <linearGradient id="bgb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#8F2840"/>
-      <stop offset="0.55" stop-color="#7A1B31"/>
-      <stop offset="1" stop-color="#3A0A16"/>
-    </linearGradient>
-    <radialGradient id="glowb" cx="0.2" cy="0.1" r="0.8">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="grainb" x="0" y="0" width="100%" height="100%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" seed="7" result="n"/>
-      <feColorMatrix in="n" type="matrix"
-        values="0 0 0 0 0.05
-                0 0 0 0 0
-                0 0 0 0 0.02
-                0 0 0 1.1 -0.35"/>
-    </filter>
-    <filter id="fibreb" x="0" y="0" width="100%" height="100%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.012 0.9" numOctaves="2" seed="3" result="n"/>
-      <feColorMatrix in="n" type="matrix"
-        values="0 0 0 0 1
-                0 0 0 0 0.85
-                0 0 0 0 0.8
-                0 0 0 0.9 -0.42"/>
-    </filter>
-    <pattern id="weaveb" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <rect width="6" height="6" fill="none"/>
-      <line x1="0" y1="0" x2="0" y2="6" stroke="#000" stroke-opacity="0.10" stroke-width="1"/>
-      <line x1="3" y1="0" x2="3" y2="6" stroke="#fff" stroke-opacity="0.035" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="360" rx="14" fill="url(#bgb)"/>
-  <rect width="1200" height="360" rx="14" fill="url(#weaveb)"/>
-  <rect width="1200" height="360" rx="14" filter="url(#fibreb)" opacity="0.55"/>
-  <rect width="1200" height="360" rx="14" filter="url(#grainb)" opacity="0.7"/>
-  <rect width="1200" height="360" rx="14" fill="url(#glowb)"/>
-  <defs>
-    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#fff" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="clipb"><rect width="1200" height="360" rx="14"/></clipPath>
-  </defs>
   <style>
-    .rise { opacity: 0; animation: rise 1.1s ease-out forwards; }
-    .d1 { animation-delay: .15s; } .d2 { animation-delay: .45s; }
-    .d3 { animation-delay: .8s; } .d4 { animation-delay: 1.1s; }
-    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-    .frame { stroke-dasharray: 3200; stroke-dashoffset: 3200; animation: draw 3.2s ease-out .1s forwards; }
-    @keyframes draw { to { stroke-dashoffset: 0; } }
-    .sweep { animation: sweep 6s ease-in-out 1.6s infinite; transform: translateX(-500px); }
-    @keyframes sweep { 0% { transform: translateX(-500px); } 55%, 100% { transform: translateX(1300px); } }
-    .breathe { animation: breathe 7s ease-in-out infinite; transform-origin: 20% 10%; }
-    @keyframes breathe { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
-    .tw { animation: tw 3.4s ease-in-out infinite; }
-    @keyframes tw { 0%,100% { opacity: .15; } 50% { opacity: 1; } }
-    .pulse { animation: pulse 3s ease-in-out 1.2s infinite; transform-box: fill-box; transform-origin: center; }
-    @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.35); } }
-    .float { animation: float 5s ease-in-out 1.5s infinite; }
-    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    .fade { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    .d2 { animation-delay: .3s; } .d3 { animation-delay: .6s; }
+    @keyframes fade { to { opacity: 1; } }
   </style>
-  <rect class="breathe" width="1200" height="360" rx="14" fill="url(#glowb)"/>
-  <rect class="frame" x="22" y="22" width="1156" height="316" rx="8" fill="none" stroke="#C9A66B" stroke-opacity="0.8" stroke-width="1.5"/>
-  <rect class="frame" x="32" y="32" width="1136" height="296" rx="4" fill="none" stroke="#C9A66B" stroke-opacity="0.4" stroke-width="1"/>
-  <g class="tw" style="animation-delay:.2s"><circle cx="120" cy="90" r="2.2" fill="#C9A66B"/></g>
-  <g class="tw" style="animation-delay:1.3s"><circle cx="1080" cy="120" r="1.8" fill="#C9A66B"/></g>
-  <g class="tw" style="animation-delay:2.1s"><circle cx="190" cy="270" r="1.6" fill="#D9A5A0"/></g>
-  <g class="tw" style="animation-delay:.8s"><circle cx="1010" cy="280" r="2.2" fill="#C9A66B"/></g>
-  <g class="tw" style="animation-delay:2.7s"><circle cx="310" cy="64" r="1.5" fill="#D9A5A0"/></g>
-  <g class="tw" style="animation-delay:1.7s"><circle cx="900" cy="62" r="1.5" fill="#D9A5A0"/></g>
+  <rect width="1200" height="260" rx="12" fill="#800020"/>
   <g text-anchor="middle">
-    <text class="rise d1" x="600" y="104" font-family="'Helvetica Neue', Arial, 'Segoe UI', sans-serif" font-size="15" letter-spacing="10" fill="#C9A66B">FRONT-END DEVELOPER</text>
-    <g class="float">
-      <text class="rise d2" x="600" y="204" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="92" font-style="italic" fill="#F3E6D8" stroke="#3A0A16" stroke-opacity="0.5" stroke-width="0.6">Sabbir Dewan</text>
-    </g>
-    <g class="rise d3">
-      <line x1="430" y1="238" x2="560" y2="238" stroke="#C9A66B" stroke-width="1.2"/>
-      <path class="pulse" d="M600 229 L609 238 L600 247 L591 238 Z" fill="none" stroke="#C9A66B" stroke-width="1.4"/>
-      <line x1="640" y1="238" x2="770" y2="238" stroke="#C9A66B" stroke-width="1.2"/>
-    </g>
-    <text class="rise d4" x="600" y="282" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="23" fill="#D9A5A0">Clean, responsive interfaces built with React.</text>
-    <text class="rise d4" x="600" y="316" font-family="'Helvetica Neue', Arial, 'Segoe UI', sans-serif" font-size="13" letter-spacing="5" fill="#F3E6D8" fill-opacity="0.7">DHAKA  ·  BANGLADESH</text>
+    <text class="fade" x="600" y="132" font-family="Georgia, 'Times New Roman', serif" font-size="68" fill="#FFFFFF">Sabbir Dewan</text>
+    <text class="fade d2" x="600" y="178" font-family="'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="6" fill="#F3E6D8">FRONT-END DEVELOPER</text>
+    <text class="fade d3" x="600" y="212" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" letter-spacing="3" fill="#E4C9C9">DHAKA, BANGLADESH</text>
   </g>
-  <g clip-path="url(#clipb)"><rect class="sweep" x="0" y="0" width="260" height="360" fill="url(#sheen)" transform="skewX(-18)"/></g>
 </svg>
