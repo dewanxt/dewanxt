@@ -106,10 +106,6 @@ I enjoy transforming ideas into functional interfaces, exploring modern web tech
 
 <br/><br/>
 
-*Thanks for visiting my profile.*
-
-**SABBIR DEWAN · DEWANXT**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:240812,100:090909&height=120&section=footer" width="100%" />
 
 </div>
