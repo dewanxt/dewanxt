@@ -32,15 +32,23 @@
       <line x1="3" y1="0" x2="3" y2="6" stroke="#fff" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
   </defs>
-  <rect width="1200" height="92" rx="10" fill="url(#bgabout)"/>
-  <rect width="1200" height="92" rx="10" fill="url(#weaveabout)"/>
-  <rect width="1200" height="92" rx="10" filter="url(#fibreabout)" opacity="0.55"/>
-  <rect width="1200" height="92" rx="10" filter="url(#grainabout)" opacity="0.7"/>
-  <rect width="1200" height="92" rx="10" fill="url(#glowabout)"/>
-  <rect x="10" y="10" width="1180" height="72" rx="5" fill="none" stroke="#C9A66B" stroke-opacity="0.45" stroke-width="1"/>
-  <text x="56" y="62" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="34" font-style="italic" fill="#C9A66B">i.</text>
-  <line x1="112" y1="46" x2="150" y2="46" stroke="#C9A66B" stroke-width="1.2"/>
-  <text x="170" y="58" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="36" fill="#F3E6D8" letter-spacing="1.5">About Me</text>
-  <path d="M1130 46 L1139 55 L1148 46 L1139 37 Z" fill="none" stroke="#C9A66B" stroke-width="1.4"/>
-  <line x1="1000" y1="46" x2="1120" y2="46" stroke="#C9A66B" stroke-opacity="0.8" stroke-width="1.2"/>
+  <style>
+    .gold { fill: #9A7424; stroke: #9A7424; }
+    .ink  { fill: #5E1426; }
+    .goldline { stroke: #9A7424; }
+    .goldtxt { fill: #9A7424; }
+    @media (prefers-color-scheme: dark) {
+      .gold { fill: #C9A66B; stroke: #C9A66B; }
+      .ink  { fill: #F3E6D8; }
+      .goldline { stroke: #C9A66B; }
+      .goldtxt { fill: #C9A66B; }
+    }
+  </style>
+  <line x1="10" y1="12" x2="1190" y2="12" class="goldline" stroke-opacity="0.5" stroke-width="1"/>
+  <line x1="10" y1="80" x2="1190" y2="80" class="goldline" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="56" y="62" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="34" font-style="italic" class="goldtxt">i.</text>
+  <line x1="112" y1="46" x2="150" y2="46" class="goldline" stroke-width="1.2"/>
+  <text x="170" y="58" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="36" class="ink" letter-spacing="1.5">About Me</text>
+  <path d="M1130 46 L1139 55 L1148 46 L1139 37 Z" fill="none" class="goldline" stroke-width="1.4"/>
+  <line x1="1000" y1="46" x2="1120" y2="46" class="goldline" stroke-opacity="0.8" stroke-width="1.2"/>
 </svg>

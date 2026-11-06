@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-zh8o.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7A1B31?style=for-the-badge&logo=googlechrome&logoColor=F3E6D8" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/dewanxt/"><img src="https://img.shields.io/badge/LinkedIn-5E1426?style=for-the-badge&logo=linkedin&logoColor=F3E6D8" alt="LinkedIn" /></a>
-  <a href="mailto:sabbirdewann@gmail.com"><img src="https://img.shields.io/badge/Email-3A0A16?style=for-the-badge&logo=gmail&logoColor=F3E6D8" alt="Email" /></a>
+  <a href="https://portfolio-zh8o.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=F3E6D8" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/dewanxt/"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=linkedin&logoColor=F3E6D8" alt="LinkedIn" /></a>
+  <a href="mailto:sabbirdewann@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=F3E6D8" alt="Email" /></a>
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -27,27 +27,27 @@ Right now I am building more responsive React applications and working through c
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-7A1B31?style=for-the-badge&logo=html5&logoColor=F3E6D8" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-7A1B31?style=for-the-badge&logo=css3&logoColor=F3E6D8" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-7A1B31?style=for-the-badge&logo=javascript&logoColor=F3E6D8" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-7A1B31?style=for-the-badge&logo=tailwindcss&logoColor=F3E6D8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7A1B31?style=for-the-badge&logo=bootstrap&logoColor=F3E6D8" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=F3E6D8" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css3&logoColor=F3E6D8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=F3E6D8" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-24292F?style=for-the-badge&logo=tailwindcss&logoColor=F3E6D8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-24292F?style=for-the-badge&logo=bootstrap&logoColor=F3E6D8" alt="Bootstrap" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-5E1426?style=for-the-badge&logo=react&logoColor=F3E6D8" alt="React" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-5E1426?style=for-the-badge&logo=redux&logoColor=F3E6D8" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/React_Router-5E1426?style=for-the-badge&logo=reactrouter&logoColor=F3E6D8" alt="React Router" />
-  <img src="https://img.shields.io/badge/Motion-5E1426?style=for-the-badge&logo=framer&logoColor=F3E6D8" alt="Motion" />
-  <img src="https://img.shields.io/badge/Axios-5E1426?style=for-the-badge&logo=axios&logoColor=F3E6D8" alt="Axios" />
+  <img src="https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=F3E6D8" alt="React" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-24292F?style=for-the-badge&logo=redux&logoColor=F3E6D8" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/React_Router-24292F?style=for-the-badge&logo=reactrouter&logoColor=F3E6D8" alt="React Router" />
+  <img src="https://img.shields.io/badge/Motion-24292F?style=for-the-badge&logo=framer&logoColor=F3E6D8" alt="Motion" />
+  <img src="https://img.shields.io/badge/Axios-24292F?style=for-the-badge&logo=axios&logoColor=F3E6D8" alt="Axios" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-3A0A16?style=for-the-badge&logo=firebase&logoColor=F3E6D8" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-3A0A16?style=for-the-badge&logo=git&logoColor=F3E6D8" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-3A0A16?style=for-the-badge&logo=github&logoColor=F3E6D8" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vite-3A0A16?style=for-the-badge&logo=vite&logoColor=F3E6D8" alt="Vite" />
-  <img src="https://img.shields.io/badge/Vercel-3A0A16?style=for-the-badge&logo=vercel&logoColor=F3E6D8" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Firebase-24292F?style=for-the-badge&logo=firebase&logoColor=F3E6D8" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=F3E6D8" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=F3E6D8" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vite-24292F?style=for-the-badge&logo=vite&logoColor=F3E6D8" alt="Vite" />
+  <img src="https://img.shields.io/badge/Vercel-24292F?style=for-the-badge&logo=vercel&logoColor=F3E6D8" alt="Vercel" />
 </p>
 
 <img src="assets/stats.svg" alt="GitHub Overview" width="100%" />
@@ -63,7 +63,7 @@ Right now I am building more responsive React applications and working through c
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dewanxt&background=5E1426&ring=C9A66B&fire=C9A66B&currStreakNum=F3E6D8&sideNums=F3E6D8&currStreakLabel=C9A66B&sideLabels=D9A5A0&dates=D9A5A0&stroke=C9A66B55&border=C9A66B&hide_border=false" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=dewanxt&background=00000000&ring=C9A66B&fire=C9A66B&currStreakNum=A33049&sideNums=A33049&currStreakLabel=9A7424&sideLabels=9A7424&dates=9A7424&stroke=C9A66B55&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <img src="assets/contact.svg" alt="Get in Touch" width="100%" />
