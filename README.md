@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="./assets/dewanxt-animated-banner.svg" width="100%" alt="Sabbir Dewan — Front-End Developer" />
 
