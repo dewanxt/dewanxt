@@ -3,7 +3,7 @@
   <defs>
     <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050505"/>
-      <stop offset="0.45" stop-color="#3A0A16"/>
+      <stop offset="0.45" stop-color="#2A0610"/>
       <stop offset="0.75" stop-color="#800020"/>
       <stop offset="1" stop-color="#0A0A0A"/>
     </linearGradient>
@@ -14,7 +14,7 @@
       <stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#C0264A" stop-opacity="0.55"/>
+      <stop offset="0" stop-color="#800020" stop-opacity="0.6"/>
       <stop offset="1" stop-color="#800020" stop-opacity="0"/>
     </radialGradient>
     <mask id="fade" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="320">
@@ -48,18 +48,18 @@
   <g mask="url(#fade)">
     <g mask="url(#shape)">
       <rect width="1200" height="320" fill="url(#base)"/>
-      <g class="w1"><path d="M-600 206 Q-450 184 -300 206 T0 206 T300 206 T600 206 T900 206 T1200 206 T1500 206 T1800 206 T2100 206 T2400 206 L2400 320 Q2250 320 2100 320 T1800 320 T1500 320 T1200 320 T900 320 T600 320 T300 320 T0 320 T-300 320 T-600 320 Z" fill="#800020" fill-opacity="0.45"/></g>
-      <g class="w2"><path d="M-600 232 Q-450 214 -300 232 T0 232 T300 232 T600 232 T900 232 T1200 232 T1500 232 T1800 232 T2100 232 T2400 232 L2400 320 Q2250 320 2100 320 T1800 320 T1500 320 T1200 320 T900 320 T600 320 T300 320 T0 320 T-300 320 T-600 320 Z" fill="#A8183A" fill-opacity="0.28"/></g>
-      <g class="w3"><path d="M-600 258 Q-450 244 -300 258 T0 258 T300 258 T600 258 T900 258 T1200 258 T1500 258 T1800 258 T2100 258 T2400 258 L2400 320 Q2250 320 2100 320 T1800 320 T1500 320 T1200 320 T900 320 T600 320 T300 320 T0 320 T-300 320 T-600 320 Z" fill="#050505" fill-opacity="0.7"/></g>
+      <g class="w1"><path d="M-600 206 Q-450 184 -300 206 T0 206 T300 206 T600 206 T900 206 T1200 206 T1500 206 T1800 206 T2100 206 T2400 206 L2400 320 Q2250 320 2100 320 T1800 320 T1500 320 T1200 320 T900 320 T600 320 T300 320 T0 320 T-300 320 T-600 320 Z" fill="#800020" fill-opacity="0.55"/></g>
+      <g class="w2"><path d="M-600 232 Q-450 214 -300 232 T0 232 T300 232 T600 232 T900 232 T1200 232 T1500 232 T1800 232 T2100 232 T2400 232 L2400 320 Q2250 320 2100 320 T1800 320 T1500 320 T1200 320 T900 320 T600 320 T300 320 T0 320 T-300 320 T-600 320 Z" fill="#5C0017" fill-opacity="0.28"/></g>
+      <g class="w3"><path d="M-600 258 Q-450 244 -300 258 T0 258 T300 258 T600 258 T900 258 T1200 258 T1500 258 T1800 258 T2100 258 T2400 258 L2400 320 Q2250 320 2100 320 T1800 320 T1500 320 T1200 320 T900 320 T600 320 T300 320 T0 320 T-300 320 T-600 320 Z" fill="#050505" fill-opacity="0.85"/></g>
       <ellipse class="glow" cx="600" cy="160" rx="440" ry="100" fill="url(#glow)"/>
     </g>
   </g>
 
   <g text-anchor="middle">
-    <text class="t" x="600" y="100" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#E8C3CC">Hello, I'm</text>
+    <text class="t" x="600" y="100" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#D8B9C0">Hello, I'm</text>
     <text class="t t2" x="600" y="166" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="700" fill="#FFFFFF">Sabbir Dewan</text>
-    <line class="ln" x1="540" y1="186" x2="660" y2="186" stroke="#D9A0AF" stroke-width="2" stroke-linecap="round"/>
-    <text class="t t3" x="600" y="220" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" letter-spacing="5" fill="#F3D9DF">FRONT-END DEVELOPER</text>
-    <text class="t t3" x="600" y="248" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#D9A0AF">I build clean, responsive interfaces with React.</text>
+    <line class="ln" x1="540" y1="186" x2="660" y2="186" stroke="#B87A8A" stroke-width="2" stroke-linecap="round"/>
+    <text class="t t3" x="600" y="220" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" letter-spacing="5" fill="#EBDDE0">FRONT-END DEVELOPER</text>
+    <text class="t t3" x="600" y="248" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#D2ADB6">I build clean, responsive interfaces with React.</text>
   </g>
 </svg>
