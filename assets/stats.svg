@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="GitHub Activity">
-  <title>GitHub Activity</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="GitHub Overview">
+  <title>GitHub Overview</title>
   <defs>
     <linearGradient id="bgstats" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#8F2840"/>
@@ -38,9 +38,9 @@
   <rect width="1200" height="92" rx="10" filter="url(#grainstats)" opacity="0.7"/>
   <rect width="1200" height="92" rx="10" fill="url(#glowstats)"/>
   <rect x="10" y="10" width="1180" height="72" rx="5" fill="none" stroke="#C9A66B" stroke-opacity="0.45" stroke-width="1"/>
-  <text x="56" y="62" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="34" font-style="italic" fill="#C9A66B">v.</text>
+  <text x="56" y="62" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="34" font-style="italic" fill="#C9A66B">iv.</text>
   <line x1="112" y1="46" x2="150" y2="46" stroke="#C9A66B" stroke-width="1.2"/>
-  <text x="170" y="58" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="36" fill="#F3E6D8" letter-spacing="1.5">GitHub Activity</text>
+  <text x="170" y="58" font-family="Georgia, 'Times New Roman', 'Playfair Display', serif" font-size="36" fill="#F3E6D8" letter-spacing="1.5">GitHub Overview</text>
   <path d="M1130 46 L1139 55 L1148 46 L1139 37 Z" fill="none" stroke="#C9A66B" stroke-width="1.4"/>
   <line x1="1000" y1="46" x2="1120" y2="46" stroke="#C9A66B" stroke-opacity="0.8" stroke-width="1.2"/>
 </svg>
