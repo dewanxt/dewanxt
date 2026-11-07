@@ -18,7 +18,7 @@
 
 ## 01 / ABOUT ME
 
-**Welcome To My GitHub**, a Front-End Developer passionate about creating modern, responsive, and engaging digital experiences.
+Hello! I'm **Sabbir Dewan**, a Front-End Developer passionate about creating modern, responsive, and engaging digital experiences.
 
 I enjoy transforming ideas into functional interfaces, exploring modern web technologies, and creating designs that balance aesthetics with usability.
 
